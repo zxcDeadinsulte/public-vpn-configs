@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=0;
 #profile-web-page-url: https://t.me/scalavpn
 #support-url: https://t.me/scalavpn?direct
-#announce: ⚠️ Если VPN не работает - обновите нажав на кнопку 🔄
+#announce: ⚠️ Если VPN не работает - обновите нажав на кнопку 🔄 «Обновить». Поддержка: @scalavpn 
+
 
 vless://00000000-0000-0000-0000-000000000000@scalavpn:443?security=none&encryption=none&type=tcp#%D0%A2%D0%93%20%D0%92%D0%9F%D0%9D%D0%90%20%40SCALAVPN
 vless://00000000-0000-0000-0000-000000000000@scalavpn:443?security=none&encryption=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40scalavpn
