@@ -5,15 +5,18 @@
 #support-url: https://t.me/scalavpn?direct
 #announce: ⚠️ Если VPN не работает - обновите нажав на кнопку 🔄
 
+vless://00000000-0000-0000-0000-000000000000@scalavpn:443?security=none&encryption=none&type=tcp#%D0%A2%D0%93%20%D0%92%D0%9F%D0%9D%D0%90%20%40SCALAVPN
+vless://00000000-0000-0000-0000-000000000000@scalavpn:443?security=none&encryption=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40scalavpn
+
 # ==================== ГЕРМАНИЯ ====================
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@193.58.121.113:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=a95b25f3#%F0%9F%87%A9%F0%9F%87%AA Германия-1
 vless://18233fc7-6aba-49b4-bea2-c03d9760f855@de.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%A9%F0%9F%87%AA Германия-2
 
 # ==================== НИДЕРЛАНДЫ ====================
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%F0%9F%87%B1 Нидерланды-1
-vless://18233fc7-6aba-49b4-bea2-c03d9760f855@fi.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-36.userapi.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%AB%F0%9F%87%AE Финляндия-1
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1 Нидерланды-1
 
 # ==================== ФИНЛЯНДИЯ ====================
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@fi.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-36.userapi.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%AB%F0%9F%87%AE Финляндия-1
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%F0%9F%87%AB%F0%9F%87%AE Финляндия-2
 vless://c5e37e6f-7038-4bac-9e46-ca910d3f0545@fl-2-direct.djarbnet.ru:443?type=ws&path=%2Fgetupdates&host=fl-2-direct.djarbnet.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE Финляндия-3
 
@@ -29,7 +32,6 @@ vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@81.85.73.17:443?security=reality&en
 # ==================== РОССИЯ ====================
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@95.181.213.24:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=W-lwGGKSWq-tglctZadUf25xWDjKmyDqWRDEtgfMKwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=d8#%F0%9F%87%B7%F0%9F%87%BA Россия-1
 vless://18233fc7-6aba-49b4-bea2-c03d9760f855@ru.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Россия-2
-
 
 # ==================== МОБИЛЬНАЯ СВЯЗЬ (РОССИЯ) ====================
 vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-1
