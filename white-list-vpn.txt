@@ -1,119 +1,46 @@
-I3Byb2ZpbGUtdGl0bGU6IFNjYWxhVlBO4m0KI3Byb2ZpbGUtdXBkYXRlLWludGVydmFsOiAxMgoj
-c3Vic2NyaXB0aW9uLXVzZXJpbmZvOiB1cGxvYWQ9MDsgZG93bmxvYWQ9MDsgdG90YWw9MDsKI3By
-b2ZpbGUtd2ViLXBhZ2UtdXJsOiBodHRwczovL3QubmUvc2NhbGF2cG4KI3N1cHBvcnQtdXJsOiBo
-dHRwczovL3QubmUvc2NhbGF2cG4/ZGlyZWN0CiNhbm5vdW5jZTog4pqfINCV0YHQu9C4IFZQTiBu
-0LUg0YDQsNCx0L7RgtCw0LXRgiAtINC+0LHQvdC+0LLQuNGC0LUg0L3QsNC20LDQsiDQvdCwINC6
-0L3QvtC/0LrRgyDwn5S7INCf0L7QtNC00LXRgNC20LrQsDogQHNjYWxhdnBuCgp2bGVzczovLzAw
-MDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMEBzY2FsYXZwbjo0NDM/c2VjdXJpdHk9
-bm9uZSZlbmNyeXB0aW9uPW5vbmUmdHlwZT10Y3AjJUQwJUExJUQwJTlGJUQwJUJOC3ZsZXNzOi8v
-MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMEBzY2FsYXZwbjo0NDM/c2VjdXJpdHk9bm9u
-ZSZlbmNyeXB0aW9uPW5vbmUmdHlwZT10Y3AjJUUyJUFDJTg3JUVGJUI4JThGJUQwJUExJUQwJTlF
-JUQwJUEwJUQwJTkyJUQwJTlFJUQwJUEwJUQwJTkwJUUyJUFDJTg3JUVGJUI4JThGJTQwc2NhbGF2
-cG4KCnZsZXNzOi8vYmRkZmQwZDgtMmJlZC00MmUzLTgwMTYtZjU2YTIxNDY0MjdmQDE5My41OC4x
-MjEuMTEzOjUwMDA/c2VjdXJpdHk9cmVhbGl0eSZlbmNyeXB0aW9uPW1sa2VtNzY4eDI1NTE5cGx1
-cy5uYXRpdmUuMHJ0dC5BRVN1WjB1ekpPdTktVS1iLU4wWk5VQWZV雑ZWo1dGNnQ0FqVEtPZkVt
-UjgmcGJrPVlZUWdMc1ppRGZuRzU4RnlzS2h5MlR5cERiWDZ2WUROMjh5clhlU0hwMVkmaGVhZGVy
-VHlwZT1ub25lJmZwPWNocm9tZSZzcHg9JTJGJnR5cGU9dGNwJnNuaT13d3cubnZpZGlhLmNvbSZz
-aWQ9YTk1YjI1ZjMjJUYwJTk2JTg3JUE5JUYwJTk2JTg3JUFBJTIwJUQwJTkzJUQwJUI1JUQxJTgw
-JUQwJUJDJUQwJUExJUQwJUJEJUQwJUI4JUQxJThFLTEgfCB0ZyBAc2NhbGF2cG4Kdmxlc3M6Ly8x
-ODIzM2ZjNy02YWJhLTQ5YjQtYmVhMi1jMDNkOTc2MGY4NTVAZGUudnotb3IuY29tOjQ0Mz9zZWN1
-cml0eT1yZWFsaXR5JnR5cGU9dGNwJmhlYWRlclR5cGU9JnBhdGg9Jmhvc3Q9JmZsb3c9eHRscy1y
-cHJ4LXZpc2lvbiZzbmk9YWRzLng1LnJ1JmZwPXFxJnBiaz1SSkVUQWtvWjZsb3dtd2M1ZjBIdFB5
-MDBjM2Rmb2pxUXV5cHJpTEV4WFJFJnNpZD1hYmJjZDEyOCMlRjAlOTYlODclQTklRjAlOTYlODcl
-QUElMjAlRDAlOTMlRDAlQjUlRDElODAlRDAlQkMlRDAlQ0VEMCVCRCVEMCVCOCVEMSU4RS0yIHwg
-dGcgQHNjYWxhdnBuCnZsZXNzOi8vYmRkZmQwZDgtMmJlZC00MmUzLTgwMTYtZjU2YTIxNDY0Mjdm
-QDE0NC4zMS4yMDcuMTg2OjUwMDA/c2VjdXJpdHk9cmVhbGl0eSZlbmNyeXB0aW9uPW1sa2VtNzY4
-eDI1NTE5cGx1cy5uYXRpdmUuMHJ0dC5BRVN1WjB1ekpPdTktVS1iLU4wWk5VQWZV雑ZWo1dGNn
-Q0FqVEtPZkVtUjgmcGJrPUtxOXBIb1gxTHB4QXFIRSVMNXFGMldOUjd5UG5WQzloUDVEYTI2MnRv
-a1ZvJmhlYWRlclR5cGU9bm9uZSZmcD1jaHJvbWUmc3B4PSUyRiZ0eXBlPXRjcCZzbmk9d3d3Lm52
-aWRpYS5jb20mc2lkPWFlYzgjJUYwJTk2JTg3JUIzJUYwJTk2JTg3JUIxJTIwJUQwJTlEJUQwJUI4
-JUQwJUI0JUQwJUI1JUQxJTgwJUQwJUJCJUQwJUIwJUQwJUJEJUQwJUI0JUQxJThCLTEgfCB0ZyBA
-c2NhbGF2cG4Kdmxlc3M6Ly8xODIzM2ZjNy02YWJhLTQ5YjQtYmVhMi1jMDNkOTc2MGY4NTVAZmku
-dnotb3IuY29tOjQ0Mz9zZWN1cml0eT1yZWFsaXR5JnR5cGU9dGNwJmhlYWRlclR5cGU9JnBhdGg9
-Jmhvc3Q9JmZsb3c9eHRscy1ycHJ4LXZpc2lvbiZzbmk9c3VuOS0zNi51c2VyYWtpLmNvbSZmcD1x
-cSZwYms9UkpFVEFrb1o2bG93bXdjNWYwSHRQeTAwYzNkZm9qcVF1eXByaUxFeFhSRSZzaWQ9YWJi
-Y2QxMjgjJUYwJTk2JTg3JUFCJUYwJTk2JTg3JUFFJTIwJUQwJUE0JUQwJUI4JUQwJUJEJUQwJUJC
-JUQxJThGJUQwJUJEJUQwJUI0JUQwJUI4JUQxJThFLTEgfCB0ZyBAc2NhbGF2cG4Kdmxlc3M6Ly9i
-ZGRmZDBkOC0yYmVkLTQyZTMtODAxNi1mNTZhMjE0NjQyN2ZAMTQ0LjMxLjQ3LjU2OjU0NDM/c2Vj
-dXJpdHk9cmVhbGl0eSZlbmNyeXB0aW9uPW1sa2VtNzY4eDI1NTE5cGx1cy5uYXRpdmUuMHJ0dC5B
-RVN1WjB1ekpPdTktVS1iLU4wWk5VQWZV雑ZWo1dGNnQ0FqVEtPZkVtUjgmcGJrPVNlajhIelYw
-dDN3eGh5emZvbC0tbW5sMUpQM2tSaHpTdU1sWXV2emFDd0kmaGVhZGVyVHlwZT1ub25lJmZwPWNo
-cm9tZSZzcHg9JTJGJnR5cGU9dGNwJnNuaT13d3cubnZpZGlhLmNvbSZzaWQ9NzRhOGI1MTQ4MDMz
-YWIjJUYwJTk2JTg3JUFCJUYwJTk2JTg3JUFFJTIwJUQwJUE0JUQwJUI4JUQwJUJEJUQwJUJCJUQx
-JThGJUQwJUJEJUQwJUI0JUQwJUI4JUQxJThFLTIgfCB0ZyBAc2NhbGF2cG4Kdmxlc3M6Ly9jNWUz
-N2U2Zi03MDM4LTRiYWMtOWU0Ni1jYTkxMGQzZjA1NDVAZmwtMi1kaXJlY3QuZGphcmJuZXQucnU6
-NDQzP3R5cGU9d3MmcGF0aD0lMkZnZXR1cGRhdGVzJmhvc3Q9ZmwtMi1kaXJlY3QuZGphcmJuZXQu
-cnUmc2VjdXJpdHk9dGxzIyVGMCU5NiU4NyVBQiVGMCU5NiU4NyVBRSUyMCVEMCVBNCVEMCVCOCVE
-MCVCRCVEMCUJCJUQxJThGJUQwJUJEJUQwJUI0JUQwJUI4JUQxJThFLTMgfCB0ZyBAc2NhbGF2cG4K
-dmxlc3M6Ly9iZGRmZDBkOC0yYmVkLTQyZTMtODAxNi1mNTZhMjE0NjQyN2ZANS44LjE4LjkwOjQ0
-Mz9zZWN1cml0eT1yZWFsaXR5SZW5jcnlwdGlvbj1tbGtlbTc2OHgyNTUxOXBsdXMubmF0aXZlLjBy
-dHQuQUVTdVowdXpKT3U5LVUtYi1OMFpOVUFmVVprajV0Y2dDQWpUS09mRW1SOCZwYms9ZlhFRmtG
-YzJQalV1V3RyTkR6Z0FES05tWVlQMUl5ZE54b0tlcD64MHVnSSZoZWFkZXJUeXBlPW5vbmUmZnA9
-Y2hyb21lJnNweD0lMkYmdHlwZT10Y3Amc25pPXd3dy5hbWQuY29tJnNpZD1mY2Y5ZjhiZCMlRjAl
-OTYlODclQkElJUYwJTk2JTg3JUI4JTIwJUQwJUExJUQwJUE4JUQwJUEwLTExfCB0ZyBAc2NhbGF2
-cG4Kdmxlc3M6Ly8xODIzM2ZjNy02YWJhLTQ5YjQtYmVhMi1jMDNkOTc2MGY4NTVAdHIudnotb3Iu
-Y29tOjQ0Mz9zZWN1cml0eT1yZWFsaXR5JnR5cGU9dGNwJmhlYWRlclR5cGU9JnBhdGg9Jmhvc3Q9
-JmZsb3c9eHRscy1ycHJ4LXZpc2lvbiZzbmk9c3VuOS0zNy51c2VyYWtpLmNvbSZmcD0mcGJrPVJK
-RVRBa29aNmxvd213YzVmM0h0UHkwMGMzZGZvanFRdXlwcmlMRXhYUkUmc2lkPWFmYmNkMTI4IyVG
-MCU5NiU4NyVCOSUfMCU5NiU4NyVCNyUyMCVEMCVBMiVEMSU4MyVEMSU4MCVEMSU4NiVEMCVCOCVEM
-SU4Ri0xIHwgdGcgQHNjYWxhdnBuCnZsZXNzOi8vYmRkZmQwZDgtMmJlZC00MmUzLTgwMTYtZjU2
-YTIxNDY0MjdmQDgxLjg1LjczLjE3OjQ0Mz9zZWN1cml0eT1yZWFsaXR5SZW5jcnlwdGlvbj1tbGtl
-bTc2OHgyNTUxOXBsdXMubmF0aXZlLjBydHQuQUVTdVowdXpKT3U5LVUtYi1OMFpOVUFmVVprajV0
-Y2dDQWpUS09mRW1SOCZwYms9Zjh2VUdFUE9nazlVZXhxZldfWDhnMTJ0ZVdhaUUweTNDS2VVVHAx
-S3IxMCZoZWFkZXJUeXBlPW5vbmUmZnA9Y2hyb21lJnNweD0lMkYmdHlwZT10Y3Amc25pPXd3dy5h
-bWQuY29tJnNpZD02NyMlRjAlOTYlODclQjUlJUYwJTk2JTg3JUIxJTIwJUQwJTlGJUQwJUJFJUQw
-JUJCJUQxJThDJTIwJUQxJTgwJUQwJUIwJUQwJUJEJUQwJUJBJUQwJUIwIHwgdGcgQHNjYWxhdnBu
-CnZsZXNzOi8vYmRkZmQwZDgtMmJlZC00MmUzLTgwMTYtZjU2YTIxNDY0MjdmQDk1LjE4MS4yMTMu
-MjQ6NDQzP3NlY3VyaXR5PXJlYWxpdHkmZW5jcnlwdGlvbj1tbGtlbTc2OHgyNTUxOXBsdXMubmF0
-aXZlLjBydHQuQUVTdVowdXpKT3U5LVUtYi1OMFpOVUFmVVprajV0Y2dDQWpUS09mRW1SOCZwYms9
-Vy1sd0dHS1NXYS10Z2xjdFphZFVmMjV4V0RqS215RHFXUkRFdGdmTUt3USZoZWFkZXJUeXBlPW5v
-bmUmZnA9Y2hyb21lJnNweD0lMkYmdHlwZT10Y3Amc25pPXd3dy5hbWQuY29tJnNpZD1kOCMlRjAl
-OTYlODclQjclJUYwJTk2JTg3JUJBJTIwJUQwJUEwJUQwJUJFJUQxJTgxJUQxJTgxJUQwJUI4JUQx
-JThFLTEgfCB0ZyBAc2NhbGF2cG4Kdmxlc3M6Ly8xODIzM2ZjNy02YWJhLTQ5YjQtYmVhMi1jMDNk
-OTc2MGY4NTVAcnUudnotb3IuY29tOjQ0Mz9zZWN1cml0eT1yZWFsaXR5JnR5cGU9dGNwJmhlYWRl
-clR5cGU9JnBhdGg9Jmhvc3Q9JmZsb3c9eHRscy1ycHJ4LXZpc2lvbiZzbmk9c3VuOS0zOC51c2Vy
-YWtpLmNvbSZmcD0mcGJrPVJKRVRBa29aNmxvd213YzVmM0h0UHkwMGMzZGZvanFRdXlwcmlMRXhY
-UkUmc2lkPWFmYmNkMTI4IyVGMCU5NiU4NyVCNyVfMCU5NiU4NyVCQSUyMCVEMCVBMF9EMCVCRSVEM
-SU4MSVEMSU4MSVEMCVCOCVEMSU4RS0yIHwgdGcgQHNjYWxhdnBuCnZsZXNzOi8vMTgyMzNmYzct
-NmFiYS00OWI0LWJlYTItYzAzZDk3NjBmODU1QGhvbGUudnotb3IuY29tOjQ0Mz9zZWN1cml0eT1y
-ZWFsaXR5JnR5cGU9dGNwJmhlYWRlclR5cGU9JnBhdGg9Jmhvc3Q9JmZsb3c9eHRscy1ycHJ4LXZp
-c2lvbiZzbmk9YWRzLng1LnJ1JmZwPXFxJnBiaz1SSkVUQWtvWjZsb3dtd2M1ZjBIdFB5MDBjM2Rm
-b2pxUXV5cHJpTEV4WFJFJnNpZD1hYmJjZDEyOCMlRjAlOTYlODclQjclJUYwJTk2JTg3JUJBJTIw
-JUQwJTlDJUQwJUJFJUQwJUJBJUQwJUI4JUQwJUJCJUQxJThDJUQwJUJEJUQwJUIwJUQxJThGJTIw
-0YHQstGP0LfRjC0xIHwgdGcgQHNjYWxhdnBuCnZsZXNzOi8vMTgyMzNmYzctNmFiYS00OWI0LWJl
-YTItYzAzZDk3NjBmODU1QGhvbGUyLnZ6LW9yLmNvbTo0NDM/c2VjdXJpdHk9cmVhbGl0eSZ0eXBl
-PXRjcCZoZWFkZXJUeXBlPSZwYXRoPSZob3N0PSZmbG93PXh0bHMtcnByeC12aXNpb24mc25pPWVo
-LnZrLmNvbSZmcD1xcSZwYms9UkpFVEFrb1o2bG93bXdjNWYwSHRQeTAwYzNkZm9qcVF1eXByaUxF
-eFhSRSZzaWQ9YWJiY2QxMjgjJUYwJTk2JTg3JUI3JUYwJTk2JTg3JUJBJTIwJUQwJTlDJUQwJUJF
-JUQwJUJBJUQwJUI4JUQwJUJCJUQxJThDJUQwJUJEJUQwJUIwJUQxJThGJTIw0YHQstGP0LfRjC0y
-IHwgdGcgQHNjYWxhdnBuCnZsZXNzOi8vMTgyMzNmYzctNmFiYS00OWI0LWJlYTItYzAzZDk3NjBm
-ODU1QGhvbGUzLnZ6LW9yLmNvbTo0NDM/c2VjdXJpdHk9cmVhbGl0eSZ0eXBlPXRjcCZoZWFkZXJU
-eXBlPSZwYXRoPSZob3N0PSZmbG93PXh0bHMtcnByeC12aXNpb24mc25pPWFwaS1tYXBzLnlhbmRl
-eC5ydSZmcD1xcSZwYms9UkpFVEFrb1o2bG93bXdjNWYwSHRQeTAwYzNkZm9qcVF1eXByaUxFeFhS
-RSZzaWQ9YWJiY2QxMjgjJUYwJTk2JTg3JUI3JUYwJTk2JTg3JUJBJTIwJUQwJTlDJUQwJUJFJUQw
-JUJBJUQwJUI4JUQwJUJCJUQxJThDJUQwJUJEJUQwJUIwJUQxJThGJTIw0YHQstGP0LfRjC0zIHwg
-dGcgQHNjYWxhdnBuCnZsZXNzOi8vMTgyMzNmYzctNmFiYS00OWI0LWJlYTItYzAzZDk3NjBmODU1
-QGhvbGU0LnZ6LW9yLmNvbTo0NDM/c2VjdXJpdHk9cmVhbGl0eSZ0eXBlPXRjcCZoZWFkZXJUeXBl
-PSZwYXRoPSZob3N0PSZmbG93PXh0bHMtcnByeC12aXNpb24mc25pPWFwaS1tYXBzLnlhbmRleC5y
-dSZmcD1xcSZwYms9UkpFVEFrb1o2bG93bXdjNWYwSHRQeTAwYzNkZm9qcVF1eXByaUxFeFhSRSZz
-aWQ9YWJiY2QxMjgjJUYwJTk2JTg3JUI3JUYwJTk2JTg3JUJBJTIwJUQwJTlDJUQwJUJFJUQwJUJB
-JUQwJUI4JUQwJUJCJUQxJThDJUQwJUJEJUQwJUIwJUQxJThGJTIw0YHQstGP0LfRjC00IHwgdGcg
-QHNjYWxhdnBuCnZsZXNzOi8vYmRkZmQwZDgtMmJlZC00MmUzLTgwMTYtZjU2YTIxNDY0MjdmQDE1
-OC4xNjAuMjI2LjMxOjQ0Mz9zZWN1cml0eT1yZWFsaXR5JmVuY3R5cHRpb249bWxrZW03Njh4MjU1
-MTlwbHVzLm5hdGl2ZS4wcnR0LkFFU3VaMHV6Sk91OS1VLWItTjBaTlVBZlVaa2o1dGNnQ0FqVEtP
-ZkVtUjgmcGJrPWpPdVhqTmxEMHZ1MG5nX0thSzU1ekswanM3VWVsdEtraXZfNnVycXNXV0UmaGVh
-ZGVyVHlwZT1ub25lJmZwPWNocm9tZSZzcHg9JTJGJnR5cGU9dGNwJnNuaT1tYXgucnUmc2lkPWUw
-YzYxMzQ0IyVGMCU5NiU4NyVBQSVGMCU5NiU4NyVCQSUyMExURS0xIHwgdGcgQHNjYWxhdnBuCnZs
-ZXNzOi8vYmRkZmQwZDgtMmJlZC00MmUzLTgwMTYtZjU2YTIxNDY0MjdmQDE1OC4xNjAuMjE2LjYy
-OjQ0Mz9zZWN1cml0eT1yZWFsaXR5JmVuY3R5cHRpb249bWxrZW03Njh4MjU1MTlwbHVzLm5hdGl2
-ZS4wcnR0LkFFU3VaMHV6Sk91OS1VLWItTjBaTlVBZlVaa2o1dGNnQ0FqVEtPZkVtUjgmcGJrPW00
-bndPYXQtQ0tiZmplSUZ6OE1Uak85VlUwMEZJelFBUUFxN0JwSW0zVm8maGVhZGVyVHlwZT1ub25l
-JmZwPWNocm9tZSZzcHg9JTJGJnR5cGU9dGNwJnNuaT1zdW4xLTEzLnVzZXJha2kuY29tJnNpZD03
-OGIyIyVGMCU5NiU4NyVBQSVGMCU5NiU4NyVCQSUyMExURS0yIHwgdGcgQHNjYWxhdnBuCnZsZXNz
-Oi8vYmRkZmQwZDgtMmJlZC00MmUzLTgwMTYtZjU2YTIxNDY0MjdmQDE1OC4xNjAuMjE2LjYyOjU0
-NDM/c2VjdXJpdHk9cmVhbGl0eSZlbmNyeXB0aW9uPW1sa2VtNzY4eDI1NTE5cGx1cy5uYXRpdmUu
-MHJ0dC5BRVN1WjB1ekpPdTktVS1iLU4wWk5VQWZV雑ZWo1dGNnQ0FqVEtPZkVtUjgmcGJrPW00
-bndPYXQtQ0tiZmplSUZ6OE1Uak85VlUwMEZJelFBUUFxN0JwSW0zVm8maGVhZGVyVHlwZT1ub25l
-JmZwPWNocm9tZSZzcHg9JTJGJnR5cGU9dGNwJnNuaT1jbG91ZGNkbi1tOS0xNS5jZG4ueWFuZGV4
-Lm5ldCZzaWQ9NzhiMiMlRjAlOTYlODclQUElRjAlOTYlODclQkElMjBMVEUtMyB8IHRnIEBzY2Fs
-YXZwbg==
+#profile-title: ScalaVPN⛰️
+#profile-update-interval: 12
+#subscription-userinfo: upload=0; download=0; total=0;
+#profile-web-page-url: https://t.me/scalavpn
+#support-url: https://t.me/scalavpn?direct
+#announce: ⚠️ Если VPN не работает - обновите нажав на кнопку 🔄 Поддержка: @scalavpn 
+
+
+vless://00000000-0000-0000-0000-000000000000@scalavpn:443?security=none&encryption=none&type=tcp#%D0%A2%D0%93%20%D0%92%D0%9F%D0%9D%D0%90%20%40SCALAVPN
+vless://00000000-0000-0000-0000-000000000000@scalavpn:443?security=none&encryption=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40scalavpn
+
+# ==================== ГЕРМАНИЯ ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@193.58.121.113:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=a95b25f3#%F0%9F%87%A9%F0%9F%87%AA Германия-1 | tg @scalavpn
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@de.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%A9%F0%9F%87%AA Германия-2 | tg @scalavpn
+
+# ==================== НИДЕРЛАНДЫ ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1 Нидерланды-1 | tg @scalavpn
+
+# ==================== ФИНЛЯНДИЯ ====================
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@fi.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-36.userapi.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%AB%F0%9F%87%AE Финляндия-1 | tg @scalavpn
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%F0%9F%87%AB%F0%9F%87%AE Финляндия-2 | tg @scalavpn
+vless://c5e37e6f-7038-4bac-9e46-ca910d3f0545@fl-2-direct.djarbnet.ru:443?type=ws&path=%2Fgetupdates&host=fl-2-direct.djarbnet.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE Финляндия-3 | tg @scalavpn
+
+# ==================== США ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@5.8.18.90:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=fXEFkFc2PjUuWtrNDzgADKNmYYP1IydNxoKep680ugI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=fcf9f8bd#%F0%9F%87%BA%F0%9F%87%B8 США-1 | tg @scalavpn
+
+# ==================== ТУРЦИЯ ====================
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@tr.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-37.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B9%F0%9F%87%B7 Турция-1 | tg @scalavpn
+
+# ==================== ПОЛЬША ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@81.85.73.17:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=f8vUGEPOgk9UexqfW_X8g12teWaiE0y3CKeUDp1Kr10&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=67#%F0%9F%87%B5%F0%9F%87%B1 Польша | tg @scalavpn
+
+# ==================== РОССИЯ ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@95.181.213.24:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=W-lwGGKSWq-tglctZadUf25xWDjKmyDqWRDEtgfMKwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=d8#%F0%9F%87%B7%F0%9F%87%BA Россия-1 | tg @scalavpn
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@ru.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Россия-2 | tg @scalavpn
+
+# ==================== МОБИЛЬНАЯ СВЯЗЬ (РОССИЯ) ====================
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-1 | tg @scalavpn
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole2.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-2 | tg @scalavpn
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole3.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-3 | tg @scalavpn
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole4.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-4 (Megafon, Yota) | tg @scalavpn
+
+# ==================== СТАРЫЕ LTE (ЕВРОСОЮЗ) ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.226.31:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=jOuXjNlD0vu0ng_KaK55zK0js7UeltKkiv_6urqsWWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=max.ru&sid=e0c61344#%F0%9F%87%AA%F0%9F%87%BA LTE-1 | tg @scalavpn
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.216.62:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=m4nwOat-CKbfjlIFz8MTjO9VU0oFIzQAQAq7BpIm3Vo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=sun1-13.userapi.com&sid=78b2#%F0%9F%87%AA%F0%9F%87%BA LTE-2 | tg @scalavpn
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.216.62:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=m4nwOat-CKbfjlIFz8MTjO9VU0oFIzQAQAq7BpIm3Vo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudcdn-m9-15.cdn.yandex.net&sid=78b2#%F0%9F%87%AA%F0%9F%87%BA LTE-3 | tg @scalavpn
