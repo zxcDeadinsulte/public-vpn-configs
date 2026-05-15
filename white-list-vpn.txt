@@ -11,19 +11,17 @@ vless://00000000-0000-0000-0000-000000000000@scalavpn:443?security=none&encrypti
 
 # ==================== ГЕРМАНИЯ ====================
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@193.58.121.113:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=a95b25f3#%F0%9F%87%A9%F0%9F%87%AA Германия-1 | tg @scalavpn
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@2.26.103.1:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=byKydK9WrKyWlkmLRb8BlXONnVAkYZFz-HC5_64nxEo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amazon.com&sid=bb5bd31f210b4a#%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F-2%F0%9F%87%A9%F0%9F%87%AA Германия-2 | tg @scalavpn
 
 # ==================== НИДЕРЛАНДЫ ====================
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1 Нидерланды-1 | tg @scalavpn
 
 # ==================== ФИНЛЯНДИЯ ====================
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%F0%9F%87%AB%F0%9F%87%AE Финляндия-2 | tg @scalavpn
-vless://c5e37e6f-7038-4bac-9e46-ca910d3f0545@fl-2-direct.djarbnet.ru:443?type=ws&path=%2Fgetupdates&host=fl-2-direct.djarbnet.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE Финляндия-3 | tg @scalavpn
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%F0%9F%87%AB%F0%9F%87%AE Финляндия-1 | tg @scalavpn
 
 # ==================== РОССИЯ ====================
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@95.181.213.24:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=W-lwGGKSWq-tglctZadUf25xWDjKmyDqWRDEtgfMKwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=d8#%F0%9F%87%B7%F0%9F%87%BA Россия-1 | tg @scalavpn
-vless://18233fc7-6aba-49b4-bea2-c03d9760f855@ru.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Россия-2 | tg @scalavpn
 
 # ==================== СТАРЫЕ LTE (ЕВРОСОЮЗ) ====================
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.226.31:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=jOuXjNlD0vu0ng_KaK55zK0js7UeltKkiv_6urqsWWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=max.ru&sid=e0c61344#%F0%9F%87%AA%F0%9F%87%BA LTE-1 | tg @scalavpn
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.216.62:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=m4nwOat-CKbfjlIFz8MTjO9VU0oFIzQAQAq7BpIm3Vo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=sun1-13.userapi.com&sid=78b2#%F0%9F%87%AA%F0%9F%87%BA LTE-2 | tg @scalavpn
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.216.62:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=m4nwOat-CKbfjlIFz8MTjO9VU0oFIzQAQAq7BpIm3Vo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudcdn-m9-15.cdn.yandex.net&sid=78b2#%F0%9F%87%AA%F0%9F%87%BA LTE-3 | tg @scalavpn
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.216.62:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=m4nwOat-CKbfjlIFz8MTjO9VU0oFIzQAQAq7BpIm3Vo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=sun1-13.userapi.com&sid=78b2#%F0%9F%87%AA%F0%9F%87%BA LTE-1 | tg @scalavpn
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.216.62:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=m4nwOat-CKbfjlIFz8MTjO9VU0oFIzQAQAq7BpIm3Vo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudcdn-m9-15.cdn.yandex.net&sid=78b2#%F0%9F%87%AA%F0%9F%87%BA LTE-2 | tg @scalavpn
