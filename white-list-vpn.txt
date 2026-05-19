@@ -53,3 +53,6 @@ vless://c65aa5b2-7e97-4220-8ee2-a5dafdc3c53c@158.160.229.215:80?security=reality
 
 # 📱 LTE сервер (Европа #2)
 vless://c65aa5b2-7e97-4220-8ee2-a5dafdc3c53c@158.160.247.67:80?security=reality&encryption=none&pbk=4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=console.cloud.yandex.ru&sid=a8b9c0d1e2f34567#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20(%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0)%201%20%7C%20tg%20%40scalavpn
+
+# 📱 LTE сервер (Европа #3)
+vless://c65aa5b2-7e97-4220-8ee2-a5dafdc3c53c@84.201.169.24:80?security=reality&encryption=none&pbk=4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=console.cloud.yandex.ru&sid=a8b9c0d1e2f34567#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20(%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0)%20%7C%20tg%20%40scalavpn
