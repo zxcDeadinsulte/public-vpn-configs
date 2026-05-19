@@ -1,6 +1,6 @@
 #profile-title: ScalaVPN⛰️
 #profile-update-interval: 12
-#subscription-userinfo: upload=529.9GB; download=0; total=0; expire=0;
+#subscription-userinfo: upload=568891670528; download=0; total=0; expire=0;
 #profile-web-page-url: https://t.me/scalavpn
 #support-url: https://t.me/scalavpn?direct
 #announce: 🚨 Используйте LTE-локации только во время глушилок ⚠️ Если VPN не работает - обновите подписку нажав на кнопку 🔄 Поддержка: @scalavpn 
