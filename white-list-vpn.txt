@@ -1,5 +1,5 @@
 #profile-title: ScalaVPN⛰️
-#profile-update-interval: 12
+#profile-update-interval: 1
 #subscription-userinfo: upload=901598921933; download=0; total=0; expire=0;
 #profile-web-page-url: https://t.me/scalavpn
 #support-url: https://t.me/scalavpn?direct
